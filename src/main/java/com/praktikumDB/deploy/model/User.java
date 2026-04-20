@@ -11,7 +11,7 @@ import lombok.Builder;
 
 @Entity
 @Data
-@Table (name = "20230140123_users")
+@Table (name = "20230140127_users")
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
